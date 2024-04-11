@@ -44,6 +44,8 @@ The generated dataset has a rand seed problem setting all the temperatures to th
 ## Conclusion
 
 The final result in my testing environment is a execution time of `27.51` seconds for the 1 billion rows generated dataset, which is a significant improvement over the initial implementation of project that took `~300` seconds. Far away from the `~6` seconds of the most optimized solution found in the internet, but I'm happy with the result, considering that is my first time with this kind of problem and all the implementation was done in a single day :)
+![generator](https://github.com/ViniciosLugli/1brc/assets/40807526/5d709ade-0792-4657-8e36-ab3d8f7416dd)
+![solution](https://github.com/ViniciosLugli/1brc/assets/40807526/b0f9f6ea-3281-4ad7-8d8f-330e7cb34aa0)
 
 ## Helpers / References
 
