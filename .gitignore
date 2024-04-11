@@ -1,0 +1,6 @@
+/target
+rustfmt.toml
+data.txt
+.env
+Cargo.lock
+.vscode
